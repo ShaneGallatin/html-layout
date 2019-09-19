@@ -1,0 +1,43 @@
+header{
+    height: 100px;
+    background: lightgrey;
+}
+
+.blue-square{
+    height: 75px;
+    width: 75px;
+    background: lightskyblue;
+    margin-left: 20px; 
+    position: fixed;
+    top: 10px;
+    
+    
+}
+
+h1{
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 25px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.blue-bar{
+    height: 100px;
+    background: #4A90E2;
+}
+
+.aqua-bar{
+    height: 100px;
+    background: #50E3C2;
+}
+
+.green-bar{
+    height: 100px;
+    background: #B8E986;
+}
+
+.yellow-bar{
+    height: 100px;
+    background: #F8E71C;
+}
