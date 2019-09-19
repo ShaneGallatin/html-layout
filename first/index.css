@@ -1,0 +1,28 @@
+header {
+    background-color: #444444;
+    width: 100%;
+    height: 15vh;
+}
+
+.left-box{
+    background-color: rgb(230, 230, 230);
+    width: 10%;
+    height: 100vh;
+    float: left; 
+}
+
+.right-box{
+    background-color: rgb(230, 230, 230);
+    width: 10%;
+    height: 100vh;
+    float: right; 
+}
+
+.bottom-box{
+    background-color: black;
+    width: 80%;
+    height: 15vh;
+    margin: 85vh 10% 0% 10%;
+    
+    
+}
